@@ -1,1 +1,2 @@
 # odin-recipes
+This is my first project on TOP. I'll use this as a way to practice all the HTML knowledge that I have learned so far in the course.  By the end of it, I should be able to build a basic recipe website. This will be a way to practice the html boilerplate learned in a previous lesson. 
